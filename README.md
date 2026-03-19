@@ -1,5 +1,7 @@
 # 🍷 Wine Quality Prediction & Analysis
 
+<a href="https://colab.research.google.com/github/dimmar127-prog/wine-quality-prediction/blob/main/wine_quality_analysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## 📌 Project Overview
 Predicting wine quality is a complex task because it relies on the subtle balance of various chemical characteristics (like acidity and alcohol) rather than just the sum of individual ingredients. This project explores machine learning techniques to predict wine quality scores based on physicochemical tests.
 
